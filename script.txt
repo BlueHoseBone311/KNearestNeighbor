@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#
+
+clear
+
+#
+
+g++ -o main CzarMerchant.cpp
+
+#
+
+time ./main
